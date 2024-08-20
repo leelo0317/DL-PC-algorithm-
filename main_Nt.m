@@ -1,5 +1,4 @@
 
-%本仿真是大论文第三章（第一篇小论文）对比算法的 发射天线数与频谱效率和能量效率
 clear
 %close all
 Ns =4; % # of data streams
